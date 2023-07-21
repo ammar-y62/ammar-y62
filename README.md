@@ -18,8 +18,13 @@
 <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React"></a>
 <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
+<a href="https://developer.android.com/studio" title="Android Studio"><img src="https://img.shields.io/badge/Android%20Studio-%23999120.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"></a>  
 <a href="" title="JAVA"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+
+
 </p>
 
 
