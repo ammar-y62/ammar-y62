@@ -19,7 +19,6 @@
 <a href="https://reactnative.dev/" title="React Native"><img src="https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Native"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
